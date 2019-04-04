@@ -1,7 +1,7 @@
 # coding_challenge
 Employee Coding Challenge
 
-# Pre Installion
+# Prerequisite
 > Make sure NodeJs installed
 
 # Installation
